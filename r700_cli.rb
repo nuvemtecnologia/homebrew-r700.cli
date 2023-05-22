@@ -4,9 +4,9 @@
 class R700Cli < Formula
   desc "CLI para o emulador da antena Impinj R700"
   homepage "https://github.com/nuvemtecnologia/r700.cli"
-  url "https://github.com/nuvemtecnologia/r700.cli/archive/refs/tags/0.0.2.tar.gz"
-  sha256 "4b6046cdcd1f9ff2ac5039d2da20b41b2d60be33938c6a29beb3eb623b898855"
-  license "MIT"
+  url "https://github.com/nuvemtecnologia/r700.cli/archive/refs/tags/0.0.3.tar.gz"
+  sha256 "16aff099075f72a15327bfb178a90ac223d463cd9eb4edde46b60140676c8de9"
+  license ""
 
   depends_on "go" => :build
 
